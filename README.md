@@ -8,6 +8,14 @@
 [更新日志](https://github.com/user1121114685/115sha1/blob/main/update.md)  
 
 
+## 功能
+
+1. 115sha1导入/导出
+2. 115sha1导入/导出
+3. 115sha1导入/导出
+
+
+
 
 ## 使用方法
 
